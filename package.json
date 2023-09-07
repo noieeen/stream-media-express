@@ -1,0 +1,15 @@
+{
+  "name": "stream-audio",
+  "version": "1.0.0",
+  "description": "Stream Audio with Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Tharin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
